@@ -1,3 +1,5 @@
+[![tlifschitz](https://circleci.com/gh/tlifschitz/ChibiOS.svg?style=svg)](https://app.circleci.com/pipelines/github/tlifschitz/ChibiOS)
+
 *****************************************************************************
 *** Files Organization                                                    ***
 *****************************************************************************
