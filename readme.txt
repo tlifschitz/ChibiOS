@@ -1,4 +1,4 @@
-![tlifschitz](https://circleci.com/gh/tlifschitz/ChibiOS.svg?style=svg
+![tlifschitz](https://circleci.com/gh/tlifschitz/ChibiOS.svg?style=svg)
 
 *****************************************************************************
 *** Files Organization                                                    ***
